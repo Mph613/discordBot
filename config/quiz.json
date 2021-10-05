@@ -1,0 +1,46 @@
+[
+	{
+		"question": "What color is the sky?",
+		"answers": ["blue"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+    {
+        "question": "What year was Bungie founded?",
+        "answers": ["1991", "one thousand nine hundred ninety-one", "nineteen ninety-one"]
+    },
+    {
+        "question": "What month, day and year was Halo: Combat Evolved released?",
+        "answers": ["November 15 2001", "November 15, 2001", "06/11/2001", "2001/11/06", "11/06/2001"]
+    },
+    {
+        "question": "What month, day and year was Halo 2 released?",
+        "answers": ["november 9 2004", "november 9, 2004", "09/11/2004", "2004/11/09", "11/09/2004"]
+    },
+    {
+        "question": "What month, day and year was Halo 3 released?",
+        "answers": ["september 25 2007", "september 25, 2007", "25/09/2007", "2007/09/25", "09/25/2007"]
+    },
+    {
+        "question": "What month, day and year was Halo: Reach released?",
+        "answers": ["september 14 2010", "september 14, 2010", "14/09/2010", "2010/09/14", "09/14/2010"]
+    },
+    {
+        "question": "What was Ottawa originally called?",
+        "answers": ["bytown"]
+    },
+    {
+        "question": "What year was Ottawa/Bytown incorporated?",
+        "answers": ["1850", "one thousand eight hundred fifty", "eighteen fifty"]
+    },
+    {
+        "question": "What year was Blizzard Entertainment founded?",
+        "answers": ["1991", "one thousand nine hundred ninety-one", "nineteen ninety-one"]
+    },
+    {
+        "question": "What year was Overwatch released?",
+        "answers": ["2016", "two thousand sixteen", "twenty sixteen"]
+    }
+]
